@@ -1,5 +1,7 @@
 # storage-security-access-control
 
+Implemente Azure Storage security controls for DMP Consulting by configuring storage firewalls, SAS tokens, stored access policies, access keys, and RBAC. This project focused on securing storage access using Azure best practices and the principle of least privilege.
+
 ---
 **Scenario**
 DMP Consulting stores client documents, contracts, and project deliverables in Azure Storage.
